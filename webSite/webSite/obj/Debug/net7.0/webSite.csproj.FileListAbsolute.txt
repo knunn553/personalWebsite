@@ -1,0 +1,5 @@
+/Users/kylenunn/Desktop/personalWebsite/webSite/webSite/obj/Debug/net7.0/webSite.csproj.AssemblyReference.cache
+/Users/kylenunn/Desktop/personalWebsite/webSite/webSite/obj/Debug/net7.0/webSite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kylenunn/Desktop/personalWebsite/webSite/webSite/obj/Debug/net7.0/webSite.AssemblyInfoInputs.cache
+/Users/kylenunn/Desktop/personalWebsite/webSite/webSite/obj/Debug/net7.0/webSite.AssemblyInfo.cs
+/Users/kylenunn/Desktop/personalWebsite/webSite/webSite/obj/Debug/net7.0/webSite.csproj.CoreCompileInputs.cache
